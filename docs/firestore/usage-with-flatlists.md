@@ -10,7 +10,7 @@ on a collection of documents. Whilst building apps with Cloud Firestore, you can
 documents using a [`FlatList`](https://reactnative.dev/docs/flatlist.html).
 
 A `FlatList` accepts an array of data, and displays the results in a performance friendly scrollable list. By integrating
-a realtime listener with the `FlatList`, whenever data changes without our database it'll automatically and efficiently update
+a realtime listener with the `FlatList`, whenever data changes within our database it'll automatically and efficiently update
 on our application.
 
 # Setup state
